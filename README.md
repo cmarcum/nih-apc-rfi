@@ -22,14 +22,14 @@ All three file formats have the following features:
 -  Name - The name of the individual submitting the comment.
 -  Organization - The name of the organization an individual may be affiliated with or submitting on behalf of.
 -  Organization.Type - The type of the organization with values:
--    [1] "Academic Institution"                                        
--    [2] "Healthcare Industry (Biotech/Device/ Pharmaceutical Company)"
--    [3] "Non-profit Research Organization"                            
--    [4] "Not Applicable"                                              
--    [5] "Other"                                                       
--    [6] "Professional Organization/Association"                       
--    [7] "Research Participant/Patient Advocacy Organization"          
--    [8] "Scholarly Publisher/Journal"
+  -    [1] "Academic Institution"                                        
+  -    [2] "Healthcare Industry (Biotech/Device/ Pharmaceutical Company)"
+  -    [3] "Non-profit Research Organization"                            
+  -    [4] "Not Applicable"                                              
+  -    [5] "Other"                                                       
+  -    [6] "Professional Organization/Association"                       
+  -    [7] "Research Participant/Patient Advocacy Organization"          
+  -    [8] "Scholarly Publisher/Journal"
 -  Upload - The URL of any file uploaded with the submission. In the case of multiple files, only the first file was retained here.
 -  Comment - The full comment. This field has been roughly cleaned to remove artifacts from conversion to ascii. If the submission had substantive responses to the five questions (see, Q1-Q5), then this field is               the concatenation of all of those responses. If the submission was entirely from an uploaded file, then this field contains only the extracted text from that file.
 -  Upload.Description - Details about the nature of the uploaded file(s).
