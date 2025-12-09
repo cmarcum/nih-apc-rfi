@@ -4,7 +4,7 @@ A repository for responses to the NIH APC RFI NOT-OD-25-138
 ## About
 This repository provides machine-readable access to comments submitted by the public in response to NIH NOT-OD-25-138, "Compiled Public Comments on the Request for Information on Maximizing Research Funds by Limiting Allowable Publishing Costs." The source of the data were originally published by NIH here: [https://osp.od.nih.gov/wp-content/uploads/2025/12/Compiled-Public-Comments-on-the-RFI-on-Maximizing-Research-Funds-by-Limiting-Allowable-Publishing-Costs.pdf](https://osp.od.nih.gov/wp-content/uploads/2025/12/Compiled-Public-Comments-on-the-RFI-on-Maximizing-Research-Funds-by-Limiting-Allowable-Publishing-Costs.pdf). 
 
-The comments may contain proprietary, copyrighted, and personally identifiable information and the content is exclusively the responsibility of the author.
+The comments may contain proprietary, copyrighted, and personally identifiable information and the content is exclusively the responsibility of the individual submitting author and/or their institution.
 
 ## Manifest
 The three machine-readable formats are as follows:
