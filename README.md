@@ -46,3 +46,6 @@ All three file formats have the following features:
 -  Q5 - Response to question 5: "Other Comments:" (Not cleaned/scrubbed)
 
 files/ - a directory of source materials, including uploaded files associated with a comment submission named consistent with their Record.ID
+
+# Errors and Updates
+There may be copy-paste errors throughout the files. If errors are found, please feel free to add a issue or pull request to fix it. 
